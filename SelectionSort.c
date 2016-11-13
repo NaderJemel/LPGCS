@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 void printT(int t[], int n);
-void main()
+int main(void)
 {
     int i,j;
     int t[] = {15,3,19,20,111,22,15,10};
