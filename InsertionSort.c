@@ -3,7 +3,7 @@ void insertion(int t[], int n);
 void printable(int t[], int n);
 int main()
 {
-    int t[] = {15,3,19,20,111,22,15,10,5,};
+    int t[] = {15,3,19,20,111,22,15,10,5};
     int n = sizeof(t) / sizeof(t[0]);
     insertion(t, n);
     printable(t, n);
